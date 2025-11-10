@@ -1,0 +1,6 @@
+path: ./rain_person
+train: images
+val: images
+
+names:
+  0: person
